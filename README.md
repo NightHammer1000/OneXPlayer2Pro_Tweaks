@@ -49,4 +49,6 @@ Especially more granular Refresh Rates help greatly with smoothness at lower Fra
 
 Import the EDID bin file in CRU or just run the Installer and Reboot.
 Now you should have more options.
-![Resolutions](https://i.imgur.com/26PgDYf.png) ![Refreshrates](https://i.imgur.com/HbRwa5Z.png)
+
+![Resolutions](https://i.imgur.com/26PgDYf.png)
+![Refreshrates](https://i.imgur.com/HbRwa5Z.png)
