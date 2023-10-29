@@ -52,3 +52,37 @@ Now you should have more options.
 
 ![Resolutions](https://i.imgur.com/26PgDYf.png)
 ![Refreshrates](https://i.imgur.com/HbRwa5Z.png)
+ 
+# Must Have Software
+## Lossless Scaling
+AMD RSR is broken on the OneXplayer 2 Pro because it uses a Display which Refreshrates are Portrait Mode by Default. That breaks the Native Resolution Detection of RSR and the Upscaling never starts when you Drop below native Resolution.
+
+But for every Issue there is a Solution. For this Problem we can use Lossless Scaling. 
+This Software brings great Quality while Upscaling form Lower Resolutions.
+The only Downside it has is that your Game has to run in Windowed Mode. Which can be a bit of a Pain with older Games, but for almost every Game [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) can offer a solution.
+Lossless Scaling can be bought here:
+https://store.steampowered.com/app/993090/Lossless_Scaling/
+
+### Setup and Integration
+Buy it, Install It, Run it.
+Set it to start on Boot, to minimize on Start and to close to Taskbar.
+Set the Scaling Mode to LS1, tick Performance Mode.
+Adjust Sharpness to your liking.
+
+Now open Handheld Companion and edit the Controller Profile for the Default Profile.
+Find the OEM Button. Add an Action. Set it to Long Press. Set the Key it sends to Z
+Open the Advanced Settings. Set Modifier to Control + Alt
+
+Now if you start a Game in Windowed Mode and long Press the Turbo Button you Upscale the Game to Full screen.
+## USB Safely Remove
+A small tool for the Info Area to Safely Unmount SD Cards for Swapping.
+https://safelyremove.com/index.htm
+## Steam-Library-Manager
+SD Card performance under Windows is... well shit. Especially if you Install Games on it with Steam Directly. It WILL take ages.
+Best to Download them to SSD and then use Steam-Library-Manager to move them over to SD Card.
+https://github.com/RevoLand/Steam-Library-Manager
+## Playnite
+Hands down the best Fullscreen Launcher to combine all your Games from EPIC, GOG, XBOX, STEAM and many more in one Place.
+They even Support Emulation Setups.
+And best of all. Its Free.
+https://playnite.link/
