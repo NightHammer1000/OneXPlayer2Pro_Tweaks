@@ -21,7 +21,7 @@ https://www.amd.com/en/support/chipsets/socket-fp5-mobile/amd-ryzen-and-athlon-m
 3. AMD GPU Driver:
 https://www.amd.com/en/support/apu/amd-ryzen-processors/amd-ryzen-7-processors-radeon-graphics/amd-ryzen-7-7840u
 4. SDCard Reader:
-https://www.intel.com/content/www/us/en/download/19604/genesys-sd-card-reader-driver-for-windows-10-64-bit-windows-11-for-intel-nuc-10-performance-kits-mini-pcs-nuc10ixfn.html
+https://github.com/NightHammer1000/OneXPlayer2Pro_Tweaks/raw/main/SDCARD.zip
 5. Generic Realtek Audio Driver:
 https://github.com/pal1000/Realtek-UAD-generic/releases
 
