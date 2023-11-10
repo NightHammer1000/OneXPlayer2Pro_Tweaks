@@ -41,8 +41,11 @@ For that, Disable Steams Build in Autostart and create a scheduled task that run
 # Display Resolution and Refreshrates ** Currently in Overhaul**
 
 **Found a better Methode. Need to redo the EDID and package everything new**
+
 This should still work tho. Could cause other Resolutions beside 1600p to only have 60Hz tho.
+
 New Methode should unlock 25-60 on all.
+
 Comming the next few days.
 
 ------
