@@ -38,7 +38,14 @@ https://github.com/Valkirie/HandheldCompanion
 For that, Disable Steams Build in Autostart and create a scheduled task that runs at Logon with a delay of 30 Seconds. Also set the Tick to run with Highest Privileges.
 4. Disable UAC.
 
-# Display Resolution and Refreshrates
+# Display Resolution and Refreshrates ** Currently in Overhaul**
+
+**Found a better Methode. Need to redo the EDID and package everything new**
+This should still work tho. Could cause other Resolutions beside 1600p to only have 60Hz tho.
+New Methode should unlock 25-60 on all.
+Comming the next few days.
+
+------
 
 I modified the EDID of the Display to provide more Refreshrates and Resolutions to play with.
 Especially more granular Refresh Rates help greatly with smoothness at lower Framerate.
